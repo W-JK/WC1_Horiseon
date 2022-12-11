@@ -36,15 +36,15 @@ menu {
 }
 /* header section - end */
 
-/* body background section - located under header element*/
-.bg { 
+/* body background section - header-image*/
+.header-image { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
 }
-/*body background image end */
+/*body background section - header-image - end */
 
 
 /* global txt stylling */
