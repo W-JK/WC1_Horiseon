@@ -80,16 +80,15 @@ p {
 }
 
 
-/*background image - for change to img */
-.hero { 
+/*background image */
+.bg { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
-/*background image end - for change to img*/
+/*background image end */
 
 
 .content {
