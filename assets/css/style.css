@@ -26,9 +26,7 @@ nav {
     font-size: 20px;
 } 
 
-.seo {   
-    color: #d9dcd6; /* color change inside logo */
-}
+
 
 menu {
     list-style-type: none;
@@ -46,8 +44,17 @@ h1{
     font-size: 48px;
 }
 
+.seo {   
+    color: #d9dcd6; /* color change inside logo */
+}
+
 h2 {
     font-size: 20px;
+}
+
+section.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 h3 {
@@ -74,6 +81,16 @@ p {
     background-position: center;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content img {
+    max-height: 200px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -84,13 +101,9 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 
+/* aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +127,9 @@ aside {
     max-width: 150px;
 }
 
+/* aside end */ 
+
+/* main Article */ 
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -142,32 +158,7 @@ aside {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* footer */
 
 footer {
     padding: 30px;
@@ -176,4 +167,4 @@ footer {
     text-align: center;
 }
 
-
+/* footer end */
