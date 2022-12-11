@@ -72,7 +72,9 @@ p {
     font-size: 16px;
 }
 
-.hero { /*background image */
+
+/*background image - for change to img */
+.hero { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -80,6 +82,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*background image end - for change to img*/
+
 
 .content {
     width: 75%;
@@ -103,7 +107,7 @@ p {
 
 
 
-/* aside */
+/* aside element - complted */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -127,9 +131,9 @@ aside {
     max-width: 150px;
 }
 
-/* aside end */ 
+/* aside element end - completed */ 
 
-/* main Article */ 
+/* main Article element - for change - styage 2 */ 
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -157,6 +161,9 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* main Article element - for change - stage 2 */ 
+
 
 /* footer */
 
