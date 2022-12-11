@@ -57,10 +57,17 @@ section.content h2 {
     font-size: 36px;
 }
 
+aside.benefit h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* aside section titles changed to h2 to follow heading oorder 
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
 
 a {
