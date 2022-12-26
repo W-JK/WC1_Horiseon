@@ -17,7 +17,8 @@ In the future, when we progress with the course, I like to be able to add respon
 
 This source code is available to everyone under the standard MIT license.
 This project is availabile under link: https://w-jk.github.io/WC1_Horiseon/
-Code can be acceset also on Git Hub: https://github.com/W-JK/WC1_Horiseon.git
+Code can be acceset also on Git Hub under below URL: 
+ https://github.com/W-JK/WC2_Portfolio.git
 
 
 
